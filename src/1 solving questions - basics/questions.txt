@@ -1,0 +1,55 @@
+✅ Kotlin Practice Questions – Basics (1 to 8)
+📁 Part 1: Output & Input
+Write a program to print your name, age, and favorite color.
+
+Take two numbers as input and print their sum, difference, product, and division.
+
+Input your name and print a greeting message like "Hello, John!".
+
+📁 Part 2: Variables & Data Types
+Declare variables for name (String), age (Int), and height (Double). Print all values.
+
+Convert a String to Int safely using .toIntOrNull() and handle null values.
+
+📁 Part 3: Operators
+Write a program to check if a number is even or odd using the modulus operator.
+
+Use relational and logical operators to compare two numbers and print results.
+
+Calculate the area and perimeter of a rectangle with given width and height.
+
+📁 Part 4: Conditional Statements
+Check if a number is positive, negative, or zero using if-else.
+
+Use when to print day names for numbers 1 to 7.
+
+Grade a student based on marks:
+
+90+ → A
+
+80–89 → B
+
+70–79 → C
+
+Below 70 → D
+
+📁 Part 5: Loops
+Print numbers 1 to 10 using for loop.
+
+Print even numbers from 1 to 20 using while loop.
+
+Sum all numbers from 1 to n (input by user) using do-while.
+
+📁 Part 6: Data Structures
+Create an array of 5 integers. Print all elements.
+
+Create a listOf 3 fruits. Print each fruit with its index.
+
+Create a mutableListOf and perform add, update, and remove operations.
+
+Create a mapOf with 3 subjects and marks. Print marks of each subject.
+
+Create a mutableMapOf, add 2 more key-value pairs, and update one.
+
+📁 Part 7: Mix Concepts
+Input 5 student names in a mutable list and print them using a loop.
