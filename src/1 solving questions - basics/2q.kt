@@ -3,16 +3,13 @@
 fun main() {
     val a = readLine()?.toIntOrNull()
     val b = readLine()?.toIntOrNull()
-    if (a != null && b != null) {
-        val sum = a + b
-        val subtraction = a - b
-        val product = a * b
-        val division = a.toDouble() / b.toDouble()
-        print("Sum: $sum\n")
-        print("Subtraction: $subtraction\n")
-        print("Product: $product\n")
-        print("Division: $division\n")
-    } else {
-        println("Invalid input. Please enter valid integers.")
-    }
+
+    val sum = a + b
+    val subtraction = a - b
+    val product = a * b
+    val division = a.toDouble() / b.toDouble()
+    print("Sum: $sum\n")
+    print("Subtraction: $subtraction\n")
+    print("Product: $product\n")
+    print("Division: $division\n")
 }
