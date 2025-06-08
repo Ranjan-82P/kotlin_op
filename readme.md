@@ -12,4 +12,4 @@ Feel free to follow along, utilize the lessons, and adapt them to your own learn
 
 by - priyanshu ranjan
 Namaste 
-jai hind
+Jai Hind
