@@ -5,6 +5,7 @@ This repository is dedicated to learning Kotlin in an easy and structured way. I
 I tracked my progress and organized lessons as I learned, often asking AI tools for explanations and examples on various topics. Each lesson is based on what I learned, with practical examples and clear explanations.
 i never saw any tutorial for this learning , 
 if u intreasted in learning kotlin, according to my pattern  u should know abit of programming then it would be much better , 
+before learning , be ready with kolin ,vsc, jdk , android studio and sdk tools setuped on your pc/laptop 
 
 **Tools Used:**
 - **Version Control & Notes:** GitHub, Git, VS Code, Notion
