@@ -11,5 +11,6 @@ If you are interested in learning Kotlin, I suggest having some basic programmin
 Feel free to follow along, utilize the lessons, and adapt them to your own learning pace!
 
 by - priyanshu ranjan
-Namaste 
-Jai Hind
+
+*Namaste 
+*Jai Hind
